@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Wrestling Rumble</string>
+    <string name="character_name"></string>
+    <string name="character_file_path">data/character1.png</string>
+    <string name="ad_id">ca-app-pub-8435025261167085/5889746855</string>
+    <string name="fte_popup">Sports Entertainment Superstars will challenge you to a Showdown! Top their score to beat and unlock them!\n\nClick the characters button to view and play as unlocked characters!</string>
+
+</resources>

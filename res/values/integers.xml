@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="isNba">0</integer>
+    <integer name="isFootball">0</integer>
+    <integer name="isMlb">0</integer>
+	<integer name="isWwe">1</integer>
+    
+</resources>
