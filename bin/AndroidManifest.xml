@@ -1,4 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="preferExternal" android:versionCode="2" android:versionName="1.1" package="com.angrysamoanapps.wrestlingrumble">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="preferExternal" android:versionCode="3" android:versionName="1.2" package="com.platinumfalconapps.wrestlingrumble">
 
     <uses-sdk android:minSdkVersion="10" android:targetSdkVersion="19"/>
 
